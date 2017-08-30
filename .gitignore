@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+.idea/
+deep_q_network.py
+logs_bird/
+saved_networks/
+images/
